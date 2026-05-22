@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=BB6CF7&center=true&vCenter=true&width=500&lines=Yenusandy" />
+  <span style="color:#BB6CF7;">🌙 Yenusandy</span>
 </h1>
 
 <p align="center">
