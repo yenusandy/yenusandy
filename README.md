@@ -2,10 +2,6 @@
   <img src="https://raw.githubusercontent.com/yenusandy/yenusandy/main/Banner.png" width="100%" />
 </p>
 
-<h1 align="center">
-  <span style="color:#BB6CF7;">Yenusandy</span>
-</h1>
-
 <p align="center">
   Just a learner exploring technology, creativity, and the digital world.
 </p>
