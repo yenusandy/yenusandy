@@ -1,4 +1,12 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yenusandy/yenusandy/main/banner.png" width="100%" />
+</p>
+
+<h1 align="center">🌙 Yenusandy</h1>
+
+<p align="center">
+  Just a learner exploring technology, creativity, and the digital world.
+</p>
 
 <!--
 **yenusandy/yenusandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
