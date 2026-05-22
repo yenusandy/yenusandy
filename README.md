@@ -1,3 +1,4 @@
+## Header
 <p align="center">
   <img src="https://raw.githubusercontent.com/yenusandy/yenusandy/main/Banner.png" width="100%" />
 </p>
@@ -12,6 +13,11 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BB6CF7&center=true&vCenter=true&width=435&lines=Learning+Python;Learning+HTML+%26+CSS;Building+my+future;Never+stop+learning..." />
+</p>
+
+## Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,vscode,html,css,github" />
 </p>
 
 <!--
