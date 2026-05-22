@@ -14,15 +14,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BB6CF7&center=true&vCenter=true&width=435&lines=Learning+Python;Learning+HTML+%26+CSS;Building+my+future;Never+stop+learning..." />
 </p>
 
-<h2 align="center"> Tech Stack</h2>
+<table align="center">
+<tr>
+<td align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yenusandy&repo=yenusandy&theme=tokyonight&hide_border=true" />
-</p>
+### Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,vscode,html,css,github&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,vscode,html,css,github&theme=dark" />
+
+</td>
+</tr>
+</table>
 
 <!--
 **yenusandy/yenusandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
