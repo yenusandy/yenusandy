@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <span style="color:#BB6CF7;">🌙 Yenusandy</span>
+  <span style="color:#BB6CF7;">Yenusandy</span>
 </h1>
 
 <p align="center">
